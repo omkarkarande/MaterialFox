@@ -1,3 +1,10 @@
+# Fork
+
+Dark theme is a bit more darker without the bluish tint of the original. 
+
+![](./repo-resources/comparison.png)
+
+**Original Readme:**
 # MaterialFox
 *A Material Design-inspired userChrome.css theme for Firefox*
 
