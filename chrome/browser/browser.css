@@ -1,0 +1,9 @@
+@-moz-document url(chrome://browser/content/browser.xhtml) {
+    browser[type="content-primary"],
+    browser[type="content"],
+    tabbrowser#content,
+    #content,
+    browser[type="content"] > html {
+        background: var(--lwt-global-background-color) !important;
+    }
+}

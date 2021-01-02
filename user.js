@@ -8,4 +8,4 @@ user_pref("svg.context-properties.content.enabled", true); 				// default is fal
 //user_pref("browser.tabs.tabClipWidth", 83); 							// default is 140
 
 /* Replicate Chrome's "Not Secure" text on HTTP */
-//user_pref("security.insecure_connection_text.enabled", true);
+user_pref("security.insecure_connection_text.enabled", true);
