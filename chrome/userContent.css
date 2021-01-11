@@ -1,4 +1,4 @@
-@-moz-document url-prefix(about:) {
+@-moz-document url("about:home"), url("about:newtab"), url("about:config"), url-prefix("about:preferences") {
     * {
         background-color: #191919 !important;
     }
